@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Britha02
+👋 Hi, I’m Britha ([BREE-ta])
 - 👀 I’m interested in data analysis, visualization, and how it all connects with the cloud
 - 🌱 I’m learning more about data storytelling, system design, and cloud computing (AWS!)
 - 💞️ I’m looking to collaborate on data-driven projects, especially ones that involve dashboards, analytics, or cloud integration
